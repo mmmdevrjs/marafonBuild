@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ae6574a.css",
+    "main.js": "/static/js/main.5ba288fa.js",
+    "static/media/Teacher.png": "/static/media/Teacher.c5a3b4081b0da955069f.png",
+    "static/media/main.png": "/static/media/main.2409f236e76621601752.png",
+    "static/media/TabletMain.png": "/static/media/TabletMain.42d6cbe414a0c34936db.png",
+    "static/media/MainMobile.png": "/static/media/MainMobile.0ca6bd77a433a6b4539c.png",
+    "static/media/TeacherTablet.png": "/static/media/TeacherTablet.1c4698339477c3286cc7.png",
+    "static/media/img8.jpg": "/static/media/img8.0465fdcd67c1dd8163b2.jpg",
+    "static/media/img1.jpg": "/static/media/img1.5789d923bd4510921a10.jpg",
+    "static/media/img2.jpg": "/static/media/img2.65a893702dc286a82218.jpg",
+    "static/media/img3.jpg": "/static/media/img3.099ad26d2ff458b6c856.jpg",
+    "static/media/img10.jpg": "/static/media/img10.79d07543e7bc4ad78850.jpg",
+    "static/media/img5.jpg": "/static/media/img5.614acce6c9d16a415b9b.jpg",
+    "static/media/img7.jpg": "/static/media/img7.224025c3022b1dbf9fd4.jpg",
+    "static/media/img11.jpg": "/static/media/img11.bb1fc048bb4ec347e0fc.jpg",
+    "static/media/img6.jpg": "/static/media/img6.d5d0f218ff46a7efd4dd.jpg",
+    "static/media/img4.jpg": "/static/media/img4.3232f80027b44158b7c8.jpg",
+    "static/media/img9.jpg": "/static/media/img9.9066a691657713aebde2.jpg",
+    "static/media/logo.svg": "/static/media/logo.f8951e34f39bf9737e69ac601c6804a6.svg",
+    "static/media/icon6.svg": "/static/media/icon6.3a5c545419b2a1080640c179dec4fb15.svg",
+    "static/media/icon2.svg": "/static/media/icon2.e06ababd63d638c2900a58cf5f5d8eaa.svg",
+    "static/media/icon1.svg": "/static/media/icon1.cc7f9b8f877753214701d49408eddc07.svg",
+    "static/media/icon3.svg": "/static/media/icon3.23516c41e10afeb60e510c92ca644a47.svg",
+    "static/media/icon5.svg": "/static/media/icon5.95075a2c883315ec2ab731b18f7bb569.svg",
+    "static/media/icon4.svg": "/static/media/icon4.cc434c0b7d06c70dad302d2bdd9b3de0.svg",
+    "index.html": "/index.html",
+    "static/media/prev.svg": "/static/media/prev.b98520d598b3b5d47c7df06ddffc2689.svg",
+    "static/media/next.svg": "/static/media/next.1ad69a2d6ff8337bcebad1b95202dc89.svg",
+    "static/media/play.svg": "/static/media/play.88f10a2f580fb4a8afa2e0156e8c6d5f.svg",
+    "static/media/accardion.svg": "/static/media/accardion.19ca24759a5150074eff83c589a078ed.svg",
+    "static/media/accardionRight.svg": "/static/media/accardionRight.fffa43eb2f840ae6f96ca6b77de6e425.svg",
+    "main.6ae6574a.css.map": "/static/css/main.6ae6574a.css.map",
+    "main.5ba288fa.js.map": "/static/js/main.5ba288fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ae6574a.css",
+    "static/js/main.5ba288fa.js"
+  ]
+}
