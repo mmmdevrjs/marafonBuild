@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ae6574a.css",
-    "main.js": "/static/js/main.5ba288fa.js",
-    "static/media/Teacher.png": "/static/media/Teacher.c5a3b4081b0da955069f.png",
-    "static/media/main.png": "/static/media/main.2409f236e76621601752.png",
-    "static/media/TabletMain.png": "/static/media/TabletMain.42d6cbe414a0c34936db.png",
-    "static/media/MainMobile.png": "/static/media/MainMobile.0ca6bd77a433a6b4539c.png",
-    "static/media/TeacherTablet.png": "/static/media/TeacherTablet.1c4698339477c3286cc7.png",
+    "main.css": "/static/css/main.6dc7935b.css",
+    "main.js": "/static/js/main.87b7093f.js",
+    "static/media/main.png": "/static/media/main.d9a2abb0b6bcd0c0c24b.png",
+    "static/media/Teacher.png": "/static/media/Teacher.47973fc77ab56aa3eb2e.png",
+    "static/media/TabletMain.png": "/static/media/TabletMain.eb3eba0b6e8eb5359e3f.png",
     "static/media/img8.jpg": "/static/media/img8.0465fdcd67c1dd8163b2.jpg",
+    "static/media/TeacherTablet.png": "/static/media/TeacherTablet.906815e022718826997f.png",
     "static/media/img1.jpg": "/static/media/img1.5789d923bd4510921a10.jpg",
     "static/media/img2.jpg": "/static/media/img2.65a893702dc286a82218.jpg",
     "static/media/img3.jpg": "/static/media/img3.099ad26d2ff458b6c856.jpg",
@@ -17,6 +16,7 @@
     "static/media/img11.jpg": "/static/media/img11.bb1fc048bb4ec347e0fc.jpg",
     "static/media/img6.jpg": "/static/media/img6.d5d0f218ff46a7efd4dd.jpg",
     "static/media/img4.jpg": "/static/media/img4.3232f80027b44158b7c8.jpg",
+    "static/media/MainMobile.png": "/static/media/MainMobile.9f27375cef15f4b17889.png",
     "static/media/img9.jpg": "/static/media/img9.9066a691657713aebde2.jpg",
     "static/media/logo.svg": "/static/media/logo.f8951e34f39bf9737e69ac601c6804a6.svg",
     "static/media/icon6.svg": "/static/media/icon6.3a5c545419b2a1080640c179dec4fb15.svg",
@@ -31,11 +31,11 @@
     "static/media/play.svg": "/static/media/play.88f10a2f580fb4a8afa2e0156e8c6d5f.svg",
     "static/media/accardion.svg": "/static/media/accardion.19ca24759a5150074eff83c589a078ed.svg",
     "static/media/accardionRight.svg": "/static/media/accardionRight.fffa43eb2f840ae6f96ca6b77de6e425.svg",
-    "main.6ae6574a.css.map": "/static/css/main.6ae6574a.css.map",
-    "main.5ba288fa.js.map": "/static/js/main.5ba288fa.js.map"
+    "main.6dc7935b.css.map": "/static/css/main.6dc7935b.css.map",
+    "main.87b7093f.js.map": "/static/js/main.87b7093f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ae6574a.css",
-    "static/js/main.5ba288fa.js"
+    "static/css/main.6dc7935b.css",
+    "static/js/main.87b7093f.js"
   ]
 }
