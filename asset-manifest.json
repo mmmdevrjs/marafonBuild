@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dced6960.css",
-    "main.js": "/static/js/main.2c89f7db.js",
+    "main.js": "/static/js/main.1e41e077.js",
     "static/media/main.png": "/static/media/main.d9a2abb0b6bcd0c0c24b.png",
     "static/media/Teacher.png": "/static/media/Teacher.47973fc77ab56aa3eb2e.png",
     "static/media/TabletMain.png": "/static/media/TabletMain.eb3eba0b6e8eb5359e3f.png",
@@ -32,10 +32,10 @@
     "static/media/accardion.svg": "/static/media/accardion.19ca24759a5150074eff83c589a078ed.svg",
     "static/media/accardionRight.svg": "/static/media/accardionRight.fffa43eb2f840ae6f96ca6b77de6e425.svg",
     "main.dced6960.css.map": "/static/css/main.dced6960.css.map",
-    "main.2c89f7db.js.map": "/static/js/main.2c89f7db.js.map"
+    "main.1e41e077.js.map": "/static/js/main.1e41e077.js.map"
   },
   "entrypoints": [
     "static/css/main.dced6960.css",
-    "static/js/main.2c89f7db.js"
+    "static/js/main.1e41e077.js"
   ]
 }
